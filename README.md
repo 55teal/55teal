@@ -13,5 +13,5 @@
 <br>
 
 <div align="center">
-  <sub>Arch Linux · Hyprland · JavaScript</sub>
+  <sub>55teal</sub>
 </div>
